@@ -1,5 +1,5 @@
 # Input/output
-text="i am Husnain Ali";
+text="My name is Soban Farooq";
 print(text);
 
 # Multiple statements on a single line
